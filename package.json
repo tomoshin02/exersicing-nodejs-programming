@@ -1,0 +1,19 @@
+{
+  "name": "exersicing-nodejs-programming",
+  "version": "1.0.0",
+  "description": "Confetti-Cuisine",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomoshin02/exersicing-nodejs-programming.git"
+  },
+  "author": "tomoshin02",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomoshin02/exersicing-nodejs-programming/issues"
+  },
+  "homepage": "https://github.com/tomoshin02/exersicing-nodejs-programming#readme"
+}
